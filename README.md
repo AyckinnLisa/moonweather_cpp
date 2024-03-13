@@ -6,7 +6,7 @@ This is a light weather station for RPi and a 7inch screen.
 ### **SCREENSHOT**
 <div align="center">
     <img
-        src="https://github.com/AyckinnLisa/CPP/blob/main/Apps/Moonweather/pics/screenshot.png"
+        src="https://github.com/AyckinnLisa/moonweather_cpp/blob/main/pics/screenshot.png"
         alt="DEMO"
         style="width:50%">
 </div>
