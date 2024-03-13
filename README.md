@@ -3,13 +3,6 @@ This is a light weather station for RPi and a 7inch screen.
 
 ---
 
-### **SCREENSHOT**
-<div align="center">
-    <img
-        src="https://github.com/AyckinnLisa/moonweather_cpp/blob/main/pics/screenshot.png"
-        alt="DEMO"
-        style="width:50%">
-</div>
 
 ---
 
@@ -20,11 +13,10 @@ This is a light weather station for RPi and a 7inch screen.
 * Compile MoonWeather.pro : ```qmake MoonWeather.pro```
 * Make : ```make```
 * Run the program : ```./MoonWeather```
-
-By default, it runs in full screen but you can change this option in ```main.cpp``` :
-* Go to the ```moonW.showFullScreen();```line and comment it.
-* Go to the ```moonW.show();``` line and uncomment it.
-Also, you can change the screen resolution on the ```moonW.setFixedSize(1024, 600);``` line.
+* By default, it runs in full screen but you can change this option in ```main.cpp``` :
+* Go to the ```moonW.showFullScreen();``` line and comment it
+* Go to the ```moonW.show();``` line and uncomment it
+* Also, you can change the screen resolution on the ```moonW.setFixedSize(1024, 600);``` line
 
 ---
 
@@ -40,7 +32,6 @@ Also, you can change the screen resolution on the ```moonW.setFixedSize(1024, 60
 * Add new icons
 * Fix bugs 
 * Update screenshot
-
 
 *Version 1.0 : March 24' 2021*
 * *INITIAL RELEASE*
